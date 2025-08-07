@@ -1,11 +1,11 @@
 import React from 'react';
-import { FaPython, FaDatabase, FaAws } from 'react-icons/fa';
-import { SiTensorflow, SiApachepyspark } from 'react-icons/si';
+import { FaPython, FaDatabase, FaAws, FaCogs } from 'react-icons/fa';
+import { SiTensorflow } from 'react-icons/si';
 
 const skills = [
   { icon: <FaPython size={40} />, name: 'Python' },
   { icon: <FaDatabase size={40} />, name: 'SQL' },
-  { icon: <SiApachepyspark size={40} />, name: 'PySpark' },
+  { icon: <FaCogs size={40} />, name: 'PySpark' },
   { icon: <FaAws size={40} />, name: 'AWS' },
   { icon: <SiTensorflow size={40} />, name: 'TensorFlow' },
 ];
