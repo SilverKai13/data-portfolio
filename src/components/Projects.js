@@ -2,22 +2,22 @@ import React from 'react';
 
 const projectData = [
   {
-    title: 'Project One',
-    description: 'Short description of project one.',
-    github: 'https://github.com/username/project-one',
-    demo: 'https://project-one-demo.com',
+    title: 'Football Analysis System',
+    description: 'Real-time football player and ball tracking using YOLOv8 and ByteTrack with speed, distance, and possession analysis.',
+    github: 'https://github.com/SilverKai13/Football-Analysis-System',
+    demo: 'https://github.com/SilverKai13/Football-Analysis-System/blob/main/output_videos/screenshot.png',
   },
   {
-    title: 'Project Two',
-    description: 'Short description of project two.',
-    github: 'https://github.com/username/project-two',
-    demo: 'https://project-two-demo.com',
+    title: 'ShopTrack - Sales Retention Analytics',
+    description: 'An end-to-end data analytics and machine learning project designed to explore customer satisfaction, sales performance, delivery experience, and retention patterns in a real-world e-commerce setting.',
+    github: 'https://github.com/SilverKai13/ShopTrack-Sales-RetentionAnalytics',
+    demo: 'https://github.com/SilverKai13/ShopTrack-Sales-RetentionAnalytics/tree/main/Images',
   },
   {
-    title: 'Project Three',
-    description: 'Short description of project three.',
-    github: 'https://github.com/username/project-three',
-    demo: 'https://project-three-demo.com',
+    title: 'Match Anlysis and Prediction',
+    description: 'This project explores over two decades of Bundesliga match data analyzing match outcomes, goal trends, team performance, and even building predictive models to classify full-time results. It showcases real-world workflows like data cleaning, exploratory analysis, feature engineering, and modeling.',
+    github: 'https://github.com/SilverKai13/Bundesliga-Match-Analysis-and-Prediction',
+    demo: 'https://github.com/SilverKai13/Bundesliga-Match-Analysis-and-Prediction/tree/main/images',
   },
 ];
 
